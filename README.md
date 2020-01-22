@@ -1,6 +1,6 @@
 # livechannels
 
-> A list of urls for Live TV Channels in Myanmar.
+> A list of urls for Live TV Channels in Myanmar.Feel Free to add one..
 
 * Mahar			 : http://maharlive.b-cdn.net/stream.m3u8
 * 5 Plus			 : http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
